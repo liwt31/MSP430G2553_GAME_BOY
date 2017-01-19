@@ -14,7 +14,7 @@ In the aspects of software, the program is developed by C, and is probably only 
 
 #### **SouceCode-dir**
 
-All source code of the project, compilable in IAR Embeded Workbench.
+All source codes of the project, compilable in IAR Embeded Workbench.
 
 #### **ProjectReport-pdf**
 
